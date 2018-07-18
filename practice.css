@@ -1,0 +1,10 @@
+body {
+    background-color: aqua;
+}
+#two{
+    height: 80px;
+    width: 170px;
+    background-color: aquamarine;
+    margin: 110px auto;
+
+}
