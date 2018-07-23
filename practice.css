@@ -5,10 +5,14 @@ body {
     height: 70px;
     width: 181px;
     background: url(images/task3_07.png) no-repeat;
-    margin: 110px auto;
+    margin: 114px auto auto auto;
+    
+
 }
 #three{
     height: 60px;
     width: 60px;
     background: url(images/task3_03.png) no-repeat ;
+    margin-left: 35px;
+    margin-top: 18px;
 }
