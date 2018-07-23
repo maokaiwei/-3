@@ -1,18 +1,69 @@
 body {
+    margin: 0;
+    padding: 0;
     background: url(images/task3_02.png);
 }
 #two{
-    height: 70px;
-    width: 181px;
-    background: url(images/task3_07.png) no-repeat;
-    margin: 114px auto auto auto;
-    
-
+    height: 35px;
+    width: 90px;
+    background: url(images/task3_07.png) no-repeat ;
+    background-size: 100%;
+    margin: 30px auto ;
 }
 #three{
-    height: 60px;
+
+    height: 30px;
+    width: 30px;
+    background: url(images/task3_03.png) no-repeat;
+    background-size: 100%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#four{
+    width: 71vw;
+    height: 95px;
+    color: aliceblue;
+    text-align: center;
+    margin:60px auto;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#five{
+    float: left;
+    width: 40px;
+    height: 40px;
+    background-image: url(images/task3_11.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: auto auto auto 50px;
+
+}
+#six{
+    float: right;
+    width: 40px;
+    height: 41px;
+    background-image: url(images/task3_13.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: auto 50px auto auto;
+}
+#seven{
+    float: left;
+    clear: both;
     width: 60px;
-    background: url(images/task3_03.png) no-repeat ;
-    margin-left: 35px;
-    margin-top: 18px;
+    height: 12px;
+    color: aliceblue;
+    margin: auto auto auto 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+}
+#eight{
+    float: right;
+    width: 60px;
+    height: 12px;
+    color: black;
+    margin: auto 37px auto auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
 }
